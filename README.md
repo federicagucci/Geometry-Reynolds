@@ -7,3 +7,5 @@ Eigenvectors are computed and their directions analysed in relation to the strea
 
 The corresponding publication is 'Interpreting turbulence anisotropy in a streamline coordinate system' (just submitted to JGR: Atmosphere).
 In the directory 'Visualization', the reader finds the codes for reproducing the figures of the paper.
+
+DOI:10.5281/zenodo.13221253
